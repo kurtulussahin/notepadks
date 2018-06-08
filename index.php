@@ -4,7 +4,7 @@
 $base_url = 'https://notepadks.herokuapp.com';
 
 // Directory to save user documents.
-$data_directory = '_tmp';
+$data_directory = 'notes';
 
 /**
  * Sanitizes a string to include only alphanumeric characters.
